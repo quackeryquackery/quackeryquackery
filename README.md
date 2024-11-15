@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @quackeryquackery
-- 👀 I’m interested in ducks.
-- 🌱 I’m currently learning Software Engineering at SJSU.
+- 👋 Hi, I’m Justin Lai
+- 🌱 I’m currently pursuing a major Software Engineering at SJSU.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like ducks.
 
